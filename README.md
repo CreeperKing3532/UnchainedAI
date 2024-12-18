@@ -5,7 +5,7 @@ This project started as a workaround to bypass some of the limitations found in 
 # HOW TO USE
 1st Go To https://console.groq.com/keys and make an account, once you have an account, Click The Button Labeled "Create API Key" and name it whatever you like, then copy the string it sends, keep it safe because the website **Will Not** Show it Again
 
-2nd Click the green button labeled "Code" then click "Download ZIP" you will then download the whole project (its not that big don't worry) then extract the file and save to to somewhere
+2nd Go to https://github.com/CreeperKing3532/UnchainedAI/releases then go to the top one, and click "Download ZIP" you will then download the whole project (its not that big don't worry) then extract the file and save to to somewhere
 
 3rd Open the extracted files, and open the file called api.key.json and replace "Replace Me!" with your API key from step 1 (Make sure not to remove the quote marks)
 
